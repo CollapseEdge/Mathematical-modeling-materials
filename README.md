@@ -6,3 +6,4 @@
 [简单的Git教程](https://github.com/CollapseEdge/Mathematical-modeling-materials/blob/master/GitTurtorial.md)
 
 本仓库存放与数学建模相关的资料
+
